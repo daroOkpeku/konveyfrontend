@@ -1,0 +1,31 @@
+{
+    "tones":[
+       {
+        "tone":"Formal"
+       },
+       {
+        "tone":"Informal"
+       },
+       {
+        "tone":"Neutral"
+       },
+       {
+        "tone":"Serious"
+       },
+       {
+        "tone":"Humorous"
+       },
+       {
+        "tone":"Sarcastic"
+       },
+       {
+        "tone":"Optimistic"
+       },
+       {
+        "tone":"Pessimistic"
+       },
+       {
+        "tone":"Authoritative"
+       }
+    ]
+}

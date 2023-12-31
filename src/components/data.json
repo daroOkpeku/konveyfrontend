@@ -1,0 +1,12 @@
+{
+  "tofumi":[
+    {
+      "country": "United States of America",
+      "image": "https://flagsworld.org/img/cflags/USA-flag.png"
+    },
+    {
+      "country": "United Kingdom",
+      "image": "https://flagsworld.org/img/cflags/uk-flag.png"
+    }
+  ]
+}
